@@ -1,1 +1,2 @@
-Code from freeCodeCamp, day one learining javascript.
+Code from freeCodeCamp.
+
